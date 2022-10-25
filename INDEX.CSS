@@ -1,0 +1,29 @@
+*{
+     margin: 0;
+}
+.container{
+    background: darkseagreen;
+    width: 100vw;
+    height: 100vw;
+}
+
+p {
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button {
+    font-size: xx-large;
+    padding: 0.95em;
+}
+
+#yesBtn {
+    transform: translate(-100%, 400);
+}
+
+#noBtn {
+    position: absolute;
+    /* top: 50%;
+    left: 0%;
+    transform: translate(0%,-100%); */
+}
